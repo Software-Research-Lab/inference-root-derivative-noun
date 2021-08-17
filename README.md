@@ -6,7 +6,7 @@
 
 ### Test demo app
 
-[Test demo app](https://github.com/ladooniani/inference-root-algorithm) is a desktop application software of algorithm inventive concept and logic design demo example, process implementation program, system module or code testing tool, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) research and workflow environment.
+<sub>[Test demo app](https://github.com/ladooniani/inference-root-algorithm) is a desktop application software of algorithm inventive concept and logic design demo example, process implementation program, system module or code testing tool, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) research and workflow environment.<sub>
 
 💾 [Download Inference root/ derivative noun algorithm desktop application v1.0.0.0](https://github.com/ladooniani/inference-root-algorithm)
 
@@ -44,7 +44,7 @@ The sentence "human and android" and word "future" inputs result shows analysis 
  
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-4.png" width="800">
 
-<sub>⬤ The call of the request shows the basic output noun assignment rule for a new meaning key in the root matrix values </sub>
+ The call of the request shows the basic output noun assignment rule for a new meaning key in the root matrix values 
 
 ## Lab
 
