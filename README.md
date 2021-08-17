@@ -32,7 +32,7 @@ As the semantic weights of the counter, the method implements a dichotomous mode
 
 The counting of key values qualifies conclusion by the higher count in found links and weighing of oppositions to define and return answer output, which makes hypothesis value true. 
 
-<img src="https://github.com/ladooniani/inference-root-algorithm/blob/main/images/inference-root-algorithm-2.png" width="800">
+<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-2.png" width="800">
 
  <sub>⬤ The sentence "human and android" and word "future" inputs result shows analysis with combination of root values, derivative key, nouns and opposition equality </sub>
  
