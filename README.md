@@ -16,7 +16,7 @@
 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-3.png" width="800">
 
-The derivative nouns sentence  algorithm represents tag type sentence search and intent recognition method from the higher count of input derivative  nouns according to data structure organization.
+The derivative nouns sentence  algorithm represents tag type sentence search and intent recognition method from the higher count of input derivative nouns according to data structure organization.
  
  # Inference root algorithm
  
@@ -44,7 +44,7 @@ The sentence "human and android" and word "future" inputs result shows analysis 
  
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-4.png" width="800">
 
- The call of the request shows the basic output noun assignment rule for a new meaning key size in the root matrix values 
+ The call of the request shows the basic output noun assignment rule for a new meaning size key in the root matrix values 
 
  ## Lab
  
