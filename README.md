@@ -1,0 +1,2 @@
+# inference-root-derivative-noun
+✔️ 🔍  "Inference root algorithm" analysis is an experimental way to find the meaning of the words in a sentence without a direct link between the word and its meaning at the time of determination of this relation by looking, counting, and weighing of the derivative noun in value root matrix up to a certain depth of subsequent connections with dynamic dependencies through defining indications as new keys in updated memory information content.
