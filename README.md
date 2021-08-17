@@ -40,13 +40,13 @@ The counting of key values qualifies conclusion by the higher count in found lin
 
 Tree represents determined matrix root values with stochastic keys of inference, and default matrix value scales.
 
-<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-pikes-of-curve.jpg" width="800">
+<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-porphyrian-tree-model-lado-oniani.png" width="800">
 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-4.png" width="800">
 
  <sub>⬤ The call of the request shows the basic output noun assignment rule for a new meaning key in the root matrix values </sub>
 
-<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-porphyrian-tree-lado-oniani.png" width="800">
+
 
    ## Lab
 
