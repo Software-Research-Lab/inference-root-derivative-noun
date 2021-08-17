@@ -14,7 +14,7 @@
 
 # Derivative noun algorithm
 
-<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-concept-lado-oniani.png" width="800">
+<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-3" width="800">
 
  <sub>⬤ The derivative nouns sentence  algorithm represents tag type sentence search and intent recognition method from the higher count of input derivative  nouns according to data structure organization  </sub>
  
@@ -22,7 +22,7 @@
  
 "Inference root algorithm" analysis is an experimental way to find the meaning of the words in a sentence without a direct link between the word and its meaning at the time of determination of this relation by looking, counting, and weighing of the derivative noun in value root matrix up to a certain depth of subsequent connections with dynamic dependencies through defining indications as new keys in updated memory information content.
 
-<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm.png" width="800">
+<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-concept-lado-oniani.png" width="800">
 
 As the semantic weights of the counter, the method implements a dichotomous model of "Porphyrian tree" with a genus hierarchy of oppositions and interpretation of values from peak size by the downward curve. 
 
