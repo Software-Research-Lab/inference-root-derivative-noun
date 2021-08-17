@@ -44,7 +44,7 @@ The sentence "human and android" and word "future" inputs result shows analysis 
  
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-4.png" width="800">
 
- The call of the request shows the basic output noun assignment rule for a new meaning key in the root matrix values 
+ The call of the request shows the basic output noun assignment rule for a new meaning key size in the root matrix values 
 
  ## Lab
  
