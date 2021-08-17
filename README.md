@@ -26,6 +26,12 @@
 
 As the semantic weights of the counter, the method implements a dichotomous model of "Porphyrian tree" with a genus hierarchy of oppositions and interpretation of values from peak size by the downward curve. 
 
+ ### Peaks of curve
+
+Tree represents determined matrix root values with stochastic keys of inference, and default matrix value scales.
+
+<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-porphyrian-tree-lado-oniani.png" width="800">
+
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-1.png" width="800">
 
  <sub>⬤ The "human brain" and "robot brain" inputs shows sentences analysis with combination of root values, derivative key and nouns </sub>
@@ -36,11 +42,6 @@ The counting of key values qualifies conclusion by the higher count in found lin
 
  <sub>⬤ The sentence "human and android" and word "future" inputs result shows analysis with combination of root values, derivative key, nouns and opposition equality </sub>
  
- ### Peaks of curve
-
-Tree represents determined matrix root values with stochastic keys of inference, and default matrix value scales.
-
-<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-porphyrian-tree-lado-oniani.png" width="800">
 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-4.png" width="800">
 
