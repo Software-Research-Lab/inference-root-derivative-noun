@@ -16,7 +16,7 @@
 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-3.png" width="800">
 
- <sub>📌 The derivative nouns sentence  algorithm represents tag type sentence search and intent recognition method from the higher count of input derivative  nouns according to data structure organization  </sub>
+ <sub>⬤ The derivative nouns sentence  algorithm represents tag type sentence search and intent recognition method from the higher count of input derivative  nouns according to data structure organization  </sub>
  
  # Inference root algorithm
  
@@ -28,13 +28,13 @@ As the semantic weights of the counter, the method implements a dichotomous mode
 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-1.png" width="800">
 
- <sub>✔️ The "human brain" and "robot brain" inputs shows sentences analysis with combination of root values, derivative key and nouns </sub>
+ <sub>⬤ The "human brain" and "robot brain" inputs shows sentences analysis with combination of root values, derivative key and nouns </sub>
 
 The counting of key values qualifies conclusion by the higher count in found links and weighing of oppositions to define and return answer output, which makes hypothesis value true. 
 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-2.png" width="800">
 
- <sub>✔️ The sentence "human and android" and word "future" inputs result shows analysis with combination of root values, derivative key, nouns and opposition equality </sub>
+ <sub>⬤ The sentence "human and android" and word "future" inputs result shows analysis with combination of root values, derivative key, nouns and opposition equality </sub>
  
  ### Peaks of curve
 
@@ -44,7 +44,7 @@ Tree represents determined matrix root values with stochastic keys of inference,
 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-4.png" width="800">
 
- <sub>✔️ The call of the request shows the basic output noun assignment rule for a new meaning key in the root matrix values </sub>
+ <sub>⬤ The call of the request shows the basic output noun assignment rule for a new meaning key in the root matrix values </sub>
 
 
 
