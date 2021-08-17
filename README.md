@@ -46,6 +46,6 @@ The sentence "human and android" and word "future" inputs result shows analysis 
 
  The call of the request shows the basic output noun assignment rule for a new meaning key in the root matrix values 
 
-<sub>## Lab
+ ## Lab
 
-### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) <sub>
+### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) 
