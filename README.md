@@ -16,7 +16,7 @@
 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-3.png" width="800">
 
- <sub>✔️ The derivative nouns sentence  algorithm represents tag type sentence search and intent recognition method from the higher count of input derivative  nouns according to data structure organization  </sub>
+ <sub>📌 The derivative nouns sentence  algorithm represents tag type sentence search and intent recognition method from the higher count of input derivative  nouns according to data structure organization  </sub>
  
  # Inference root algorithm
  
