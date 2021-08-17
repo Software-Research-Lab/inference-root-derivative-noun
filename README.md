@@ -49,3 +49,12 @@ The sentence "human and android" and word "future" inputs result shows analysis 
  ## Lab
  
 ### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) 
+
+<sub>Copyright © 2016-2021 Lado Oniani, TAI Lab. All Rights Reserved<sub>
+ 
+ ## Content info
+
+- [Artwork copyright note]( https://github.com/ladooniani/resume-cv/blob/main/img/artwork.txt)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=ladooniani.freetools)
+ 
