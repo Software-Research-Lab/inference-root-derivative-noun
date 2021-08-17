@@ -1,4 +1,8 @@
 ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png)
+
+<sub>**Toy Artificial Intelligence\
+Research, innovation and technology development\
+Intelligent systems and robotics laboratory**  <sub>
  
  # Inference root/derivative noun algorithm
  
@@ -48,9 +52,4 @@ The sentence "human and android" and word "future" inputs result shows analysis 
 
  ## Lab
  
- 
-<sub>**Toy Artificial Intelligence\
-Research, innovation and technology development\
-Intelligent systems and robotics laboratory**  <sub>
-
 ### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) 
