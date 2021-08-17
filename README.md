@@ -56,5 +56,5 @@ The sentence "human and android" and word "future" inputs result shows analysis 
 
 - [Artwork copyright note]( https://github.com/ladooniani/resume-cv/blob/main/img/artwork.txt)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=ladooniani.freetools)
+
  
