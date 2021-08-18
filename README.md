@@ -82,10 +82,10 @@ The answer provides the supposed meaning of the word, determined by counting roo
 
 With a large and balanced volume of data, the downward curve of meanings cancels the small size of interrelated oppositions with the weight of the dominant value. With minimal volume, it is a clear example of incorrect teaching. 
 
-<sub>
+
 ``` 
   output: computer is perceptive
- ``` <sub>
+ ``` 
 
 | Root  | Key | Size |
 | ------------- | ------------- | ------------- |
@@ -96,8 +96,8 @@ With a large and balanced volume of data, the downward curve of meanings cancels
 fix this error:
 
  ``` 
- <sub>input: computer is system\
-  output: I believe computer is logical and visceral<sub>
+ input: computer is system
+  output: I believe computer is logical and visceral
   ``` 
 
 | Root  | Key | Size |
@@ -115,8 +115,8 @@ The size of "rational" derivatives is bigger than "sensitive" but still contains
 | rational  | system  | 10 |
 
 ``` 
-  <sub>input: computer is mechanism\
-  output: computer is rational and logical device<sub>
+  input: computer is mechanism
+  output: computer is rational and logical device
   ``` 
 
 | Root  | Key | Size |
@@ -126,37 +126,37 @@ The size of "rational" derivatives is bigger than "sensitive" but still contains
 | rational  | system  | 24 |
 
 ``` 
-<sub>output: computer is azoic and rational, it is good, plus, the computer is a machine, program, logic<sub> 
+output: computer is azoic and rational, it is good, plus, the computer is a machine, program, logic
 ``` 
 
 Following training experiment test example represents what proper training means for a particular attitude with direct positive attachment:
 
 ``` 
-  <sub>input: game is good<sub>
+ input: game is good
 ``` 
 
 and negative keys:
 
 ``` 
-  <sub>input: destruction is bad\
-  input: war is destruction\
-  input: war is game<sub>
+ input: destruction is bad
+  input: war is destruction
+  input: war is game
 ``` 
 
 At first glance, it is a neutral definition of war, in another context may have a different meaning, but the correct conclusion, it is undesirable to associate positive objects with negative ones:
 
 ``` 
-  <sub>input: destruction\
-  output: destruction is violence<sub>
+  input: destruction
+  output: destruction is violence
 ``` 
 
    Hypothetically negative meaning:
 
 ``` 
-  <sub>input: war\
-  output: probably war is love, confirm if my hypothesis is true\
-  input: no\
-  output: Sometimes things are not clear for me enough, I can incorrectly assess the meaning with opposite and wrong definitions, not corresponding to the truth. To fix this error, you should teach me the true value of the subjects to make me know what it means. That’s why you have to teach me right.<sub>
+  input: war
+  output: probably war is love, confirm if my hypothesis is true
+  input: no
+  output: Sometimes things are not clear for me enough, I can incorrectly assess the meaning with opposite and wrong definitions, not corresponding to the truth. To fix this error, you should teach me the true value of the subjects to make me know what it means. That’s why you have to teach me right.
 ``` 
 
 The preponderance of the incorrect answer accounts for the greater or equal number of connections with root key value from whole memory analysis. In the case of the program, it is easy to balance this error with adding new keys, as for particular values, also for interrelated oppositions scales.
