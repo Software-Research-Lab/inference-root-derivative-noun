@@ -26,12 +26,6 @@ The derivative nouns sentence  algorithm represents tag type sentence search and
 
 As the semantic weights of the counter, the method implements a dichotomous model of "Porphyrian tree" with a genus hierarchy of oppositions and interpretation of values from peak size by the downward curve. 
 
- ### Peaks of curve
-
-Tree represents determined matrix root values with stochastic keys of inference, and default matrix value scales.
-
-<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-porphyrian-tree-lado-oniani.png" width="800">
-
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-1.png" width="800">
 
 The "human brain" and "robot brain" inputs shows sentences analysis with combination of root values, derivative key and nouns.
@@ -45,6 +39,12 @@ The sentence "human and android" and word "future" inputs result shows analysis 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-4.png" width="800">
 
 The call of the request shows the basic output noun assignment rule for a new meaning size key in the root matrix values. 
+
+ ### Peaks of curve
+
+Tree represents determined matrix root values with stochastic keys of inference, and default matrix value scales.
+
+<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-porphyrian-tree-lado-oniani.png" width="800">
 
 Simplified matrix processing example with 3 root values, keywords, and derivative noun size counter:
 
@@ -86,7 +86,6 @@ fix this error:
 
   <sub>input: computer is system\
   output: I believe computer is logical and visceral<sub>
-
 
 | Root  | Key | Size |
 | ------------- | ------------- | ------------- |
