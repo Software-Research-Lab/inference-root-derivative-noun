@@ -64,8 +64,8 @@ Simplified matrix processing example with 3 root values, keywords, and derivativ
 The key will output hypothesis derivative by attached root value with a set of subject tag answers:
 
 ``` 
-  <sub>input: what is computer?\
-  output: possibly computer is logical<sub> 
+  input: what is computer?
+  output: possibly computer is logical
  ``` 
 
 | Root  | Key | Size |
@@ -77,14 +77,15 @@ The key will output hypothesis derivative by attached root value with a set of s
 The answer provides the supposed meaning of the word, determined by counting root connections found in a whole memory data structure or raw textual information.
 
 ``` 
-  <sub>input: computer is dog<sub> 
+ input: computer is dog
   ``` 
 
 With a large and balanced volume of data, the downward curve of meanings cancels the small size of interrelated oppositions with the weight of the dominant value. With minimal volume, it is a clear example of incorrect teaching. 
 
+<sub>
 ``` 
-  <sub>output: computer is perceptive<sub>
- ``` 
+  output: computer is perceptive
+ ``` <sub>
 
 | Root  | Key | Size |
 | ------------- | ------------- | ------------- |
