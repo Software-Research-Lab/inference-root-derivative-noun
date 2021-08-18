@@ -46,7 +46,7 @@ The sentence "human and android" and word "future" inputs result shows analysis 
 
 The call of the request shows the basic output noun assignment rule for a new meaning size key in the root matrix values. 
 
-Simplified matrix processing example with 3 root values, key words and derivative noun size counter:
+Simplified matrix processing example with 3 root values, keywords, and derivative noun size counter:
 
 | Root  | Key | Size |
 | ------------- | ------------- | ------------- |
@@ -57,7 +57,7 @@ Simplified matrix processing example with 3 root values, key words and derivativ
    <sub>output: what is computer?\
    input: it is system<sub>
 
-The key will output hypothesis derivative by attached root value with set of subject tag answers:
+The key will output hypothesis derivative by attached root value with a set of subject tag answers:
 
   <sub>input: what is computer?\
   output: possibly computer is logical<sub> 
@@ -68,7 +68,7 @@ The key will output hypothesis derivative by attached root value with set of sub
 | insensitive  | mechanism  | 0  |
 | rational  | system  | 5 |
 
-The answer provides the supposed meaning of the word, determined by counting of root connections found in a whole memory data structure or raw textual information.
+The answer provides the supposed meaning of the word, determined by counting root connections found in a whole memory data structure or raw textual information.
 
   <sub>input: computer is dog<sub> 
 
@@ -94,7 +94,7 @@ fix this error:
 | insensitive  | mechanism  | 0  |
 | rational  | system  | 8 |
 
-Size of "rational" derivatives is bigger than "sensitive", but still contains incorrect value.
+The size of "rational" derivatives is bigger than "sensitive" but still contains an incorrect value.
 
 | Root  | Key | Size |
 | ------------- | ------------- | ------------- |
@@ -111,7 +111,7 @@ Size of "rational" derivatives is bigger than "sensitive", but still contains in
 | insensitive  | mechanism  | 12  |
 | rational  | system  | 24 |
 
-<sub>output: computer is azoic and rational, it is good and plus, computer is a machine, program, logic<sub> 
+<sub>output: computer is azoic and rational, it is good, plus, the computer is a machine, program, logic<sub> 
 
 Following training experiment test example represents what proper training means for a particular attitude with direct positive attachment:
 
@@ -125,8 +125,8 @@ and negative keys:
 
 At first glance, it is a neutral definition of war, in another context may have a different meaning, but the correct conclusion, it is undesirable to associate positive objects with negative ones:
 
-  <sub>input: **destruction\
-  output: destruction is violence**<sub>
+  <sub>input: destruction\
+  output: destruction is violence<sub>
 
    Hypothetically negative meaning:
 
@@ -136,7 +136,6 @@ At first glance, it is a neutral definition of war, in another context may have 
   output: Sometimes things are not clear for me enough, I can incorrectly assess the meaning with opposite and wrong definitions, not corresponding to the truth. To fix this error, you should teach me the true value of the subjects to make me know what it means. That’s why you have to teach me right.<sub>
 
 The preponderance of the incorrect answer accounts for the greater or equal number of connections with root key value from whole memory analysis. In the case of the program, it is easy to balance this error with adding new keys, as for particular values, also for interrelated oppositions scales.
-
 
  ## Lab
  
