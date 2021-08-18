@@ -68,6 +68,33 @@ The key will output hypothesis derivative by attached root value with set of sub
 | insensitive  | mechanism  | 0  |
 | rational  | system  | 5 |
 
+This answer provides the supposed meaning of the word, determined by counting of root connections found in a whole memory data structure or raw textual information
+
+  input: computer is dog 
+
+With a large and balanced volume of data, the downward curve of meanings cancels the small size of interrelated oppositions with the weight of the dominant value. With minimal volume, it is a clear example of incorrect teaching. Following training experiment test example represents what proper training means for a particular attitude with direct positive attachment:
+
+  input: game is good
+
+and negative keys:
+
+  <sub>input: destruction is bad\
+  input: war is destruction\
+  input: war is game<sub>
+
+At first glance, it is a neutral definition of war, in another context may have a different meaning, but the correct conclusion, it is undesirable to associate positive objects with negative ones:
+
+  <sub>input: destruction\ 
+  output: destruction is violence<sub>
+
+   Hypothetically negative meaning:
+
+  <sub>input: war\
+  output: probably war is love, confirm if my hypothesis is true\
+  input: no\
+  output: Sometimes things are not clear for me enough, I can incorrectly assess the meaning with opposite and wrong definitions, not corresponding to the truth. To fix this error, you should teach me the true value of the subjects to make me know what it means. That’s why you have to teach me right<sub>
+
+The preponderance of the incorrect answer accounts for the greater or equal number of connections with root key value from whole memory analysis. In the case of the program, it is easy to balance this error with adding new keys, as for particular values, also for interrelated oppositions scales.
 
  
 
