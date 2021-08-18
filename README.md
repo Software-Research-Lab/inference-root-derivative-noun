@@ -142,6 +142,16 @@ Hypothetically negative meaning:
  
 The preponderance of the incorrect answer accounts for the greater or equal number of connections with root key value from whole memory analysis. In the case of the program, it is easy to balance this error with adding new keys, as for particular values, also for interrelated oppositions scales.
 
+## 💖 Support project
+
+Your donation will help expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration and search for other references.
+
+To support the project follow the donation link: 
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GRGH6SL9EL72U">
+  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="Donate with PayPal" /><br><br>
+</a>
+
  ## Lab
  
 ### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) 
