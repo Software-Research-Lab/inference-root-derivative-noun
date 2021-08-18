@@ -44,6 +44,15 @@ The sentence "human and android" and word "future" inputs result shows analysis 
  
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-4.png" width="800">
 
+Simplified matrix example with 3 root values, key words and derivative noun size counter:
+
+| Root  | Key | Size |
+| ------------- | ------------- | ------------- |
+| sensitive  | animal  | 0  |
+| insensitive  | mechanism  | 0  |
+| rational  | system  | 0  |
+
+
  The call of the request shows the basic output noun assignment rule for a new meaning size key in the root matrix values 
 
  ## Lab
