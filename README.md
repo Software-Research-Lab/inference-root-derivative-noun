@@ -44,7 +44,9 @@ The sentence "human and android" and word "future" inputs result shows analysis 
  
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-4.png" width="800">
 
-Simplified matrix example with 3 root values, key words and derivative noun size counter:
+The call of the request shows the basic output noun assignment rule for a new meaning size key in the root matrix values 
+
+Simplified matrix processing example with 3 root values, key words and derivative noun size counter:
 
 | Root  | Key | Size |
 | ------------- | ------------- | ------------- |
@@ -52,8 +54,22 @@ Simplified matrix example with 3 root values, key words and derivative noun size
 | insensitive  | mechanism  | 0  |
 | rational  | system  | 0  |
 
+   <sub>output: what is computer?
+   input: it is system<sub>
 
- The call of the request shows the basic output noun assignment rule for a new meaning size key in the root matrix values 
+The key will output hypothesis derivative by attached root value with set of subject tag answers:
+
+  <sub>input: what is computer?
+  output: possibly computer is logical<sub> 
+
+| Root  | Key | Size |
+| ------------- | ------------- | ------------- |
+| sensitive  | animal  | 0  |
+| insensitive  | mechanism  | 0  |
+| rational  | system  | 5 |
+
+
+ 
 
  ## Lab
  
