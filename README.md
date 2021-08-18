@@ -57,8 +57,8 @@ Simplified matrix processing example with 3 root values, keywords, and derivativ
 | rational  | system  | 0  |
 
 ``` 
-   <sub>output: what is computer?\
-   input: it is system<sub>
+   output: what is computer?
+   input: it is system
 ``` 
 
 The key will output hypothesis derivative by attached root value with a set of subject tag answers:
