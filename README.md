@@ -10,7 +10,7 @@
 
 💾 [Download Inference root/ derivative noun algorithm desktop application v1.0.0.0](https://github.com/ladooniani/inference-root-algorithm)
 
-☁️ ![Inference root/ derivative noun algorithm repository](https://github.com/ladooniani/inference-root-algorithm)
+☁️ [Inference root/ derivative noun algorithm repository](https://github.com/ladooniani/inference-root-algorithm)
 
 # Derivative noun algorithm
 
