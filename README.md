@@ -54,12 +54,12 @@ Simplified matrix processing example with 3 root values, key words and derivativ
 | insensitive  | mechanism  | 0  |
 | rational  | system  | 0  |
 
-   <sub>output: what is computer?
+   <sub>output: what is computer?\
    input: it is system<sub>
 
 The key will output hypothesis derivative by attached root value with set of subject tag answers:
 
-  <sub>input: what is computer?
+  <sub>input: what is computer?\
   output: possibly computer is logical<sub> 
 
 | Root  | Key | Size |
