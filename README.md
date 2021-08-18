@@ -18,7 +18,7 @@
 
 The derivative nouns sentence  algorithm represents tag type sentence search and intent recognition method from the higher count of input derivative nouns according to data structure organization.
  
- # Inference root algorithm
+# Inference root algorithm
  
 "Inference root algorithm" analysis is an experimental way to find the meaning of the words in a sentence without a direct link between the word and its meaning at the time of determination of this relation by looking, counting, and weighing of the derivative noun in value root matrix up to a certain depth of subsequent connections with dynamic dependencies through defining indications as new keys in updated memory information content.
 
@@ -130,15 +130,15 @@ and negative keys:
 
 At first glance, it is a neutral definition of war, in another context may have a different meaning, but the correct conclusion, it is undesirable to associate positive objects with negative ones:
 
- > input: destruction\
- > output: destruction is violence
+> input: destruction\
+> output: destruction is violence
 
 Hypothetically negative meaning:
 
- > input: war\
- > output: probably war is love, confirm if my hypothesis is true\
- > input: no\
- > output: Sometimes things are not clear for me enough, I can incorrectly assess the meaning with opposite and wrong definitions, not corresponding to the truth. To fix this error, you should teach me the true value of the subjects to make me know what it means. That’s why you have to teach me right.
+> input: war\
+> output: probably war is love, confirm if my hypothesis is true\
+> input: no\
+> output: Sometimes things are not clear for me enough, I can incorrectly assess the meaning with opposite and wrong definitions, not corresponding to the truth. To fix this error, you should teach me the true value of the subjects to make me know what it means. That’s why you have to teach me right.
  
 The preponderance of the incorrect answer accounts for the greater or equal number of connections with root key value from whole memory analysis. In the case of the program, it is easy to balance this error with adding new keys, as for particular values, also for interrelated oppositions scales.
 
