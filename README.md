@@ -70,11 +70,11 @@ The key will output hypothesis derivative by attached root value with set of sub
 
 This answer provides the supposed meaning of the word, determined by counting of root connections found in a whole memory data structure or raw textual information
 
-  input: computer is dog 
+  <sub>input: computer is dog<sub> 
 
 With a large and balanced volume of data, the downward curve of meanings cancels the small size of interrelated oppositions with the weight of the dominant value. With minimal volume, it is a clear example of incorrect teaching. Following training experiment test example represents what proper training means for a particular attitude with direct positive attachment:
 
-  input: game is good
+  <sub>input: game is good<sub>
 
 and negative keys:
 
@@ -84,7 +84,7 @@ and negative keys:
 
 At first glance, it is a neutral definition of war, in another context may have a different meaning, but the correct conclusion, it is undesirable to associate positive objects with negative ones:
 
-  <sub>input: destruction\ 
+  <sub>input: destruction\
   output: destruction is violence<sub>
 
    Hypothetically negative meaning:
