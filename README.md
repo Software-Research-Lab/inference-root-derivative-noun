@@ -46,6 +46,10 @@ Tree represents determined matrix root values with stochastic keys of inference,
 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-porphyrian-tree-lado-oniani.png" width="800">
 
+<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-6.png" width="800">
+
+**1)** Red: input noun **2)** Green: derivative keys **3)** Blue: higher root derivative key **4)** Yellow: root opposition **5)** Orange: direct derivative noun **6)** White: data structure tag type derivative nouns sentence **7)** Violet: data structure answer type sentence
+ 
 ### Root key derivative
  
 Simplified matrix processing example with 3 root values, keywords, and derivative noun size counter:
@@ -86,10 +90,8 @@ With a large and balanced volume of data, the downward curve of meanings cancels
 
 fix this error:
 
-
  > input: computer is system\
  >  output: I believe computer is logical and visceral
-
 
 | Root  | Key | Size |
 | ------------- | ------------- | ------------- |
