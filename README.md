@@ -46,6 +46,8 @@ Tree represents determined matrix root values with stochastic keys of inference,
 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-porphyrian-tree-lado-oniani.png" width="800">
 
+ ### Root key derivative
+ 
 Simplified matrix processing example with 3 root values, keywords, and derivative noun size counter:
 
 | Root  | Key | Size |
