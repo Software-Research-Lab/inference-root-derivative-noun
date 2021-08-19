@@ -143,7 +143,7 @@ and negative keys:
 > input: war is destruction\
 > input: war is game
 
-At first glance, it is a neutral definition of the word "war", in another context may have a different meaning, but for the correct conclusion, it is undesirable to associate positive objects with negative ones:
+At first glance, it is a neutral definition of the word "war is game", in another context may have a different meaning, but for the correct conclusion, it is undesirable to associate positive objects with negative ones:
 
 > input: destruction\
 > output: destruction is violence
