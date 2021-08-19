@@ -95,7 +95,7 @@ The answer provides the supposed meaning of the word, determined by counting roo
  
 With a large and balanced volume of data, the downward curve of meanings cancels the small size of interrelated oppositions with the weight of the dominant value. With minimal volume, it is a clear example of incorrect teaching. 
 
- > output: computer is perceptive
+ > output: computer is emotional
   
 | Root  | Key | Size |
 | ------------- | ------------- | ------------- |
