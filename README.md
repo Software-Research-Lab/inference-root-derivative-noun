@@ -31,7 +31,7 @@ The derivative nouns sentence  algorithm represents tag type sentence search and
 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-concept-lado-oniani.png" width="800">
 
-As the semantic weights of the counter, the method implements a dichotomous model of "Porphyrian tree" with a genus hierarchy of oppositions and interpretation of values from peak size by the downward curve. 
+As the semantic weights of the counter, the method implements a dichotomous model of ["Porphyrian tree"](https://en.wikipedia.org/wiki/Porphyrian_tree) with a genus hierarchy of oppositions and interpretation of values from peak size by the downward curve. 
 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-1.png" width="800">
 
