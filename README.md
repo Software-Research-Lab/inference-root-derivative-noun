@@ -50,6 +50,12 @@ Tree represents determined matrix root values with stochastic keys of inference,
 
 **1)** Red: input noun **2)** Green: derivative keys **3)** Blue: higher root derivative key **4)** Yellow: root opposition **5)** Orange: direct derivative noun **6)** White: data structure tag type derivative nouns sentence **7)** Violet: data structure answer type sentence
  
+ 
+ <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-7.png" width="800">
+ 
+ 
+  <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-5.png" width="800">
+ 
 ### Root key derivative
  
 Simplified matrix processing example with 3 root values, keywords, and derivative noun size counter:
