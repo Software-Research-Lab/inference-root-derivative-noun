@@ -12,6 +12,13 @@
 
 ☁️ [Inference root/ derivative noun algorithm repository](https://github.com/ladooniani/inference-root-algorithm)
 
+### ✔️ Content
+
+ - [Derivative noun algorithm](#Derivative-noun-algorithm)
+ - [Inference root algorithm](#Inference-root-algorithm)
+ - [Peaks of curve](#Peaks-of-curve)
+ - [Root key derivative](#Root-key-derivative)
+
 # Derivative noun algorithm
 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-3.png" width="800">
