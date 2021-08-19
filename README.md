@@ -48,7 +48,7 @@ Tree represents determined matrix root values with stochastic keys of inference,
 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-6.png" width="800">
 
-**1)** Red: input noun **2)** Green: derivative keys **3)** Blue: higher root derivative key **4)** Yellow: root opposition **5)** Orange: direct derivative noun **6)** White: data structure tag type derivative nouns sentence **7)** Violet: data structure answer type sentence
+**1)** Red [noun]: input noun **2)** Green [key]: derivative keys **3)** Blue [peak]: higher root derivative key **4)** Yellow [ops]: root opposition **5)** Orange [der]: direct derivative noun **6)** White [int]: data structure tag type derivative nouns sentence **7)** Violet [ans]: data structure answer type sentence
  
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-7.png" width="800">
  
