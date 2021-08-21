@@ -57,7 +57,7 @@ Tree represents determined matrix root values with stochastic keys of inference,
 
 **1)** Red [noun]: input noun **2)** Green [key]: derivative keys **3)** Blue [peak]: higher root derivative key **4)** Yellow [ops]: root opposition **5)** Orange [der]: direct derivative noun **6)** White [int]: data structure tag type derivative nouns sentence **7)** Violet [ans]: data structure answer type sentence
  
-<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-algorithm-7.png" width="800">
+<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-7.png" width="800">
  
 The sentence "android nature" and "how do you feel android" inputs result shows analysis with combination of root values, derivative key, nouns, opposition equality and direct intent and answer from derivative count search.
  
