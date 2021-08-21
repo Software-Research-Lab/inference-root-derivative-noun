@@ -61,7 +61,7 @@ Tree represents determined matrix root values with stochastic keys of inference,
  
 The sentence "android nature" and "how do you feel android" inputs result shows analysis with combination of root values, derivative key, nouns, opposition equality and direct intent and answer from derivative count search.
  
-<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-5.png" width="800">
+<img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-dn-5.png" width="800">
  
 The sentence "how do you feel" input output analysis.
   
