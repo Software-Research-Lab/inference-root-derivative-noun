@@ -12,7 +12,7 @@
 
 ☁️ [Inference root/ derivative noun algorithm repository](https://github.com/ladooniani/inference-root-algorithm)
 
-#### 📃 Read about Terbinari CBM project: [tai.pdf](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)
+<sub> 📃 [Terbinari CBM project](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)<sub>
 
 ### ✔️ Content
 
