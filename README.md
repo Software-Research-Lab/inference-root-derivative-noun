@@ -12,8 +12,6 @@
 
 ☁️ [Inference root/ derivative noun algorithm repository](https://github.com/ladooniani/inference-root-algorithm)
 
-<sub> 📃 [Terbinari CBM project](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)<sub>
-
 ### ✔️ Content
 
  - [Derivative noun algorithm](#Derivative-noun-algorithm)
@@ -172,6 +170,8 @@ To support the project follow the donation link:
  ## Lab
  
 ### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) 
+
+<sub> Read about [Terbinari CBM project](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)<sub>
 
 <sub>Copyright © 2016-2021 Lado Oniani, TAI Lab. All Rights Reserved<sub>
  
