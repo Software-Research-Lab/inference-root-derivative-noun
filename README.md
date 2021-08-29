@@ -171,8 +171,6 @@ To support the project follow the donation link:
  
 ### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) 
 
-<sub> Read about [Terbinari CBM project](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)<sub>
-
 <sub>Copyright © 2016-2021 Lado Oniani, TAI Lab. All Rights Reserved<sub>
  
  ## Content info
