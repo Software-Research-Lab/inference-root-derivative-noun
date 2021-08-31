@@ -2,9 +2,9 @@
  
  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png)
 
-<sub>**Toy Artificial Intelligence\
+**Toy Artificial Intelligence\
 Research, innovation and technology development\
-Intelligent systems and robotics laboratory**<sub>
+Intelligent systems and robotics laboratory**
 
 #
 
