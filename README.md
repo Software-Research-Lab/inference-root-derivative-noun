@@ -14,24 +14,13 @@ Intelligent systems and robotics laboratory**
  
 ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img6.jpg)
 
-<!--- 
-
-### Test demo app
-
- [Test demo app](https://github.com/ladooniani/inference-root-algorithm) is a desktop application software of algorithm inventive concept and logic design demo example, process implementation program, system module or code testing tool, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) research and workflow environment.
-
- 💾 [Download Inference root/ derivative noun algorithm desktop application v1.0.0.0](https://github.com/ladooniani/inference-root-algorithm) 
-
-☁️ [Inference root/ derivative noun algorithm repository](https://github.com/ladooniani/inference-root-algorithm) 
-
---->
-
 ### ✔️ Content
 
  - [Derivative noun algorithm](#Derivative-noun-algorithm)
  - [Inference root algorithm](#Inference-root-algorithm)
  - [Peaks of curve](#Peaks-of-curve)
  - [Root key derivative](#Root-key-derivative)
+ - [Application](#Test-demo-app)
 
 # Derivative noun algorithm
 
@@ -170,6 +159,14 @@ Hypothetically negative meaning:
 > output: Sometimes things are not clear for me enough, I can incorrectly assess the meaning with opposite and wrong definitions, not corresponding to the truth. To fix this error, you should teach me the true value of the subjects to make me know what it means. That’s why you have to teach me right.
  
 The preponderance of the incorrect answer accounts for the greater or equal number of connections with root key value from whole memory analysis. In the case of the program, it is easy to balance this error with adding new keys, as for particular values, also for interrelated oppositions scales.
+
+### Test demo app
+
+ [Test demo app](https://github.com/ladooniani/inference-root-algorithm) is a desktop application software of algorithm inventive concept and logic design demo example, process implementation program, system module or code testing tool, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) research and workflow environment.
+
+ 💾 [Download Inference root/ derivative noun algorithm desktop application v1.0.0.0](https://github.com/ladooniani/inference-root-algorithm) 
+
+☁️ [Inference root/ derivative noun algorithm repository](https://github.com/ladooniani/inference-root-algorithm) 
 
 ## 💖 Support project
 
