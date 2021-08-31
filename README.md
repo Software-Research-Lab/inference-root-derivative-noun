@@ -162,9 +162,9 @@ The preponderance of the incorrect answer accounts for the greater or equal numb
 
 ### Test demo app
 
- [Test demo app](https://github.com/ladooniani/inference-root-algorithm) is a desktop application software of algorithm inventive concept and logic design demo example, process implementation program, system module or code testing tool, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) research and workflow environment.
+ [Test demo apps](https://github.com/ladooniani/inference-root-algorithm) is a desktop application software of algorithm inventive concept and logic design demo example, process implementation program, system module or code testing tool, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) research and workflow environment.
 
- 💾 [Download Inference root/ derivative noun algorithm desktop application v1.0.0.0](https://github.com/ladooniani/inference-root-algorithm) 
+ 💾 [Inference root/ derivative noun algorithm desktop application](https://github.com/ladooniani/inference-root-algorithm) 
 
 ☁️ [Inference root/ derivative noun algorithm repository](https://github.com/ladooniani/inference-root-algorithm) 
 
