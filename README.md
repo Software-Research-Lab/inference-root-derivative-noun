@@ -4,13 +4,17 @@
  
 ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img6.jpg)
 
-<!--- ### Test demo app
+<!--- 
+
+### Test demo app
 
  [Test demo app](https://github.com/ladooniani/inference-root-algorithm) is a desktop application software of algorithm inventive concept and logic design demo example, process implementation program, system module or code testing tool, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) research and workflow environment.
 
  💾 [Download Inference root/ derivative noun algorithm desktop application v1.0.0.0](https://github.com/ladooniani/inference-root-algorithm) 
 
-☁️ [Inference root/ derivative noun algorithm repository](https://github.com/ladooniani/inference-root-algorithm) --->
+☁️ [Inference root/ derivative noun algorithm repository](https://github.com/ladooniani/inference-root-algorithm) 
+
+--->
 
 ### ✔️ Content
 
