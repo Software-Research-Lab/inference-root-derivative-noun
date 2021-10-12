@@ -26,7 +26,7 @@ Intelligent systems and robotics laboratory**
 
 <img src="https://github.com/ladooniani/inference-root-derivative-noun/blob/main/images/inference-root-3.png" width="800">
 
-The derivative nouns sentence  algorithm represents tag type sentence search and intent recognition method from the higher count of input derivative nouns according to data structure organization.
+The derivative nouns sentence  algorithm represents tag type sentence search, intent recognition and entity extraction method from the higher count of input derivative nouns according to data structure organization.
  
 # Inference root algorithm
  
