@@ -168,6 +168,10 @@ The preponderance of the incorrect answer accounts for the greater or equal numb
 
 ☁️ [Inference root/ derivative noun algorithm repository](https://github.com/ladooniani/inference-root-algorithm) 
 
+## Download markdown pdf
+
+📃 [Download pdf](https://github.com/ladooniani/tailab/blob/master/docs/lado-oniani-inference-root-derivative-noun-md.pdf)
+
 ## 💖 Support project
 
 Your donation will help expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration and search for other references.
