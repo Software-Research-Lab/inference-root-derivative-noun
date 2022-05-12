@@ -10,10 +10,10 @@ Intelligent systems and robotics laboratory**
 
 #
 
-<!--- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png) --->
+<!--- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png)  
 
 [<img alt="TAI Lab." width="59px" src="https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png" />](https://github.com/ladooniani/terbinari) 
-
+ --->
  # Inference root/derivative noun algorithm
  
 ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img6.jpg)
