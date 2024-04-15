@@ -1,22 +1,17 @@
- <!---  # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
- 
+ <!---  
+ # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
 ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png) 
- 
- [<img alt="TAI lab" width="69px" src="https://github.com/ladooniani/tailab/blob/master/assets/tai-logo-mx.png" />](https://ladooniani.github.io/tailab/) 
-
+[<img alt="TAI lab" width="69px" src="https://github.com/ladooniani/tailab/blob/master/assets/tai-logo-mx.png" />](https://ladooniani.github.io/tailab/) 
 **Toy Artificial Intelligence\
 Research, innovation and technology development\
 Intelligent systems and robotics laboratory**
-
 #
- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png)  
-
+![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png)  
 [<img alt="TAI Lab." width="59px" src="https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png" />](https://github.com/ladooniani/terbinari) 
- --->
- # Inference root/derivative noun algorithm
- <!--- 
 ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img6.jpg)
  --->
+# Inference root/derivative noun algorithm
+
 ### ✔️ Content
 
  - [Derivative noun algorithm](#Derivative-noun-algorithm)
@@ -163,40 +158,23 @@ Hypothetically negative meaning:
  
 The preponderance of the incorrect answer accounts for the greater or equal number of connections with root key value from whole memory analysis. In the case of the program, it is easy to balance this error with adding new keys, as for particular values, also for interrelated oppositions scales.
 
-### Test demo app
-
- [Test demo apps](https://github.com/ladooniani/inference-root-algorithm) is a desktop application software of algorithm inventive concept and logic design demo example, process implementation program, system module or code testing tool, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) research and workflow environment.
-
- 💾 [Inference root/ derivative noun algorithm desktop application](https://github.com/ladooniani/inference-root-algorithm) 
-
-☁️ [Inference root/ derivative noun algorithm repository](https://github.com/ladooniani/inference-root-algorithm) 
-
-## Download markdown pdf
-
-📃 [Download pdf](https://github.com/ladooniani/tailab/blob/master/docs/lado-oniani-inference-root-derivative-noun-md.pdf)
-
 <!-- 
-
+### Test demo app
+[Test demo apps](https://github.com/ladooniani/inference-root-algorithm) is a desktop application software of algorithm inventive concept and logic design demo example, process implementation program, system module or code testing tool, created and used in the [TAI lab](https://ladooniani.github.io/tailab/) research and workflow environment.
+💾 [Inference root/ derivative noun algorithm desktop application](https://github.com/ladooniani/inference-root-algorithm) 
+☁️ [Inference root/ derivative noun algorithm repository](https://github.com/ladooniani/inference-root-algorithm) 
+## Download markdown pdf
+📃 [Download pdf](https://github.com/ladooniani/tailab/blob/master/docs/lado-oniani-inference-root-derivative-noun-md.pdf)
 ## 💖 Support project
-
 Your donation will help expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration and search for other references.
-
 To support the project follow the donation link: 
-
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GRGH6SL9EL72U">
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="Donate with PayPal" /><br><br>
 </a>
-
---->
-
 ## Lab
-
 ### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) 
-
 <sub>📃 [TAI lab. Terbinari CBM project pdf](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)<sub>
-
 <sub>Copyright © 2016-2021 Lado Oniani, TAI Lab. All Rights Reserved<sub>
- 
  ## Content info
-
 - [Artwork copyright note]( https://github.com/ladooniani/resume-cv/blob/main/img/artwork.txt)
+--->
