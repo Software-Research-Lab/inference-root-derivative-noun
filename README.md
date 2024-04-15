@@ -12,7 +12,7 @@ Intelligent systems and robotics laboratory**
  --->
 # Inference root/derivative noun algorithm
 
-### ✔️ Content
+### Content
 
  - [Derivative noun algorithm](#Derivative-noun-algorithm)
  - [Inference root algorithm](#Inference-root-algorithm)
